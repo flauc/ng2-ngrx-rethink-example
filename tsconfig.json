@@ -12,18 +12,6 @@
   "files": [
     "typings/main.d.ts",
     "index.ts",
-    "server/config/config.ts",
-    "server/config/mongo.ts",
-    "server/config/auth.ts",
-    "server/config/express.ts",
-    "server/config/routes.ts",
-    "server/config/socket.ts",
-    "server/config/schedule.ts",
-    "server/controllers/users.controller.ts",
-    "server/controllers/devices.controller.ts",
-    "server/controllers/serials.controller.ts",
-    "server/controllers/weatherApiController.ts",
-    "server/helpers/commonHelpers.ts",
-    "server/helpers/deviceHw.ts"
+    "server/config.ts"
   ]
 }

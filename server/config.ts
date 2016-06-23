@@ -8,4 +8,10 @@ export const config = {
     env: process.env.NODE_ENV || 'dev',
     rootPath: rootPath,
     appSecret: 'very special',
+    rethink: {
+        host: 'localhost',
+        port: 28015,
+        authKey: '',
+        db: 'test'
+    },
 };
