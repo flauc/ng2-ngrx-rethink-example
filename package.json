@@ -1,0 +1,33 @@
+{
+  "name": "ng2-ngrx-rethink-example",
+  "version": "1.0.0",
+  "description": "A simple example/starter application using Angular 2 with ngrx and RethinkDb",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flauc/ng2-ngrx-rethink-example.git"
+  },
+  "keywords": [
+    "ng2",
+    "ngrx",
+    "rethinkDb"
+  ],
+  "author": "Filip Lauc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flauc/ng2-ngrx-rethink-example/issues"
+  },
+  "homepage": "https://github.com/flauc/ng2-ngrx-rethink-example#readme",
+  "devDependencies": {
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.6",
+    "merge2": "^1.0.2",
+    "systemjs-builder": "^0.15.23",
+    "typescript": "^1.8.10",
+    "typings": "^1.3.0"
+  }
+}
